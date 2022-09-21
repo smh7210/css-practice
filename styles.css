@@ -1,0 +1,33 @@
+.main-heading {
+    font-size: 48px;
+    color: purple;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.first-subheading {
+    color: red;
+}
+
+p {
+    margin: 24px;
+}
+
+.first-paragraph {
+    font-size: 18px;
+    color: orangered;
+    padding: 30px;
+}
+
+.second-subheading {
+    color: blue;
+    font-size: 56px;
+}
+
+.bonus {
+    font-weight: bold;
+    font-size: 24px;
+    color: green;
+}
