@@ -1,0 +1,33 @@
+h1 {
+  font-size: 48px;
+  color: purple;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    margin: 24px;
+}
+
+.about-me > h2 {
+    color: red;
+}
+
+.about-me > p {
+    font-size: 18px;
+    color: orangered;
+    padding: 30px;
+}
+
+.favorites > h2 {
+    color: blue;
+    font-size: 56px;
+}
+
+.bonus {
+    font-weight: bold;
+    font-size: 24px;
+    color: green;
+}
